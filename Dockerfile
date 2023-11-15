@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor-amd64:v0.47.2
+FROM k8s.gcr.io/sig-storage/csi-provisioner:v3.2.1
